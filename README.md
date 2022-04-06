@@ -1,4 +1,4 @@
-# TwitchBot
+# PyTwitchBot
 
 A Twitch Bot written in Python following a youtube video, which is referenced in the code of main.py.
 
