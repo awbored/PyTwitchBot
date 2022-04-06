@@ -11,6 +11,8 @@ And a text editor of your choice:
 
 Download all files and save them to a folder on your computer.
 
+The editor may need to be configured to point to your Python installation.
+
 Open the project folder with your editor.
 
 config.py contains the configuration items to configure your bot.  You can use your own Twitch account or register a new account as your bot account.  You can get an authentication key for your account following the link in config.py.  (Do not share this key with anyone).
