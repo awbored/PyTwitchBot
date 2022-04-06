@@ -22,3 +22,7 @@ I will suggest, if you register a new account there is an option in your Twitch 
 Review all the commented (#) sections for details on each section.
 
 The !so Shout Out function has a random response function.  The responses are under the CUSTOM FUNCTIONS section of main.py
+
+After you have customized the bot for your channel run the main.py from your editor.  If running correctly you should see the IRC text relays in the terminal window in the editor.
+
+You do not need to be LIVE to access your chat room.  Navigate to your page and click the Chat link.  If the Bot is running and configured correctly you should see responses in the chat.
