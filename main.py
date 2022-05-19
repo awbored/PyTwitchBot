@@ -175,6 +175,11 @@ class Bot:
                 )
             if message.text_command in self.custom_commands:
                 self.custom_commands[message.text_command](message)
+            if message.text_command not in self.custom_commands:
+                if message.text_command not in TEMPLATE_COMMANDS:
+                    if message.text_command.startswith('!'):
+                        text = "That's a neat command.  I have no idea what to do though."
+                        self.send_privmsg(message.channel, text)
     
     def loop_for_messages(self):
         while True:
