@@ -2,6 +2,8 @@
 
 A Twitch Bot written in Python following a youtube video, which is referenced in the code of main.py.
 
+I wanted to make a Twitch bot from scratch instead of using common other bots out there, like NightBot or StreamElements, mainly so I could learn how the bot interacts with chats and also make custom commands that the other bots might not be able to.  The best way to get into programming and scripting I've found is to have a project idea to build off of.
+
 To get started you will need to install:
  - [Python](https://www.python.org/)
 
